@@ -28,7 +28,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd your-project-repo
+    cd ecommerce-multi-vendor
 
 Install all the dependencies using composer
 
@@ -58,8 +58,8 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git@github.com:gothinkster/laravel-realworld-example-app.git
-    cd laravel-realworld-example-app
+    git clone git@github.com:amdadulhaquemelon-dev/ecommerce-multi-vendor.git
+    cd ecommerce-multi-vendor
     composer install
     cp .env.example .env
     php artisan key:generate
@@ -129,7 +129,7 @@ This applications uses [Laravel](https://laravel.com/docs/8.x/authentication) - 
 
 ----------
 
-# See Demo in LIVE SERVER
+<!-- # See Demo in LIVE SERVER
  
 
-- https://www.unishshoekattor24.com/
+- https://www.unishshoekattor24.com/ -->
