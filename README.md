@@ -24,7 +24,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:amdadulhaquemelon-dev/ecommerce-multi-vendor.git
+    git clone git@github.com:amdadulhaque-dev/ecommerce-multi-vendor.git
 
 Switch to the repo folder
 
@@ -58,7 +58,7 @@ You can now access the server at http://localhost:8000
 
 **TL;DR command list**
 
-    git clone git@github.com:amdadulhaquemelon-dev/ecommerce-multi-vendor.git
+    git clone git@github.com:amdadulhaque-dev/ecommerce-multi-vendor.git
     cd ecommerce-multi-vendor
     composer install
     cp .env.example .env
