@@ -67,14 +67,9 @@ You can now access the server at http://localhost:8000
     
 **Make sure you set the correct database connection information before running the migrations** [Environment variables](#environment-variables)
 
-    php artisan migrate
+    php artisan migrate --seed
     php artisan serve
 
-## Database seeding
-
-Run the database seeder and you're done
-
-    php artisan db:seed
 
 ***Note*** : It's recommended to have a clean database before seeding. You can refresh your migrations at any point to clean the database by running the following command
 
